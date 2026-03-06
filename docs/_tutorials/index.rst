@@ -16,9 +16,9 @@ JAX 101
 Mostly finalized at :ref:`jax-101`!
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 
 
-   ../key-concepts
+   ../key-concepts 
    ../jit-compilation
    ../automatic-vectorization
    ../automatic-differentiation
